@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaa5116c-9973-448a-b21c-a843e2b1de3c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2w1YvtC2ZJ0cYZuhvF7tY57p5mk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ResilienceApiGatewayApplication.executor": "Run",
+    "Application.ResilienceOrderServiceApplication.executor": "Run",
+    "Application.ResilienceServerApplication.executor": "Run",
+    "Application.ResilienceUserServiceApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kumar\OneDrive\Desktop\LEARN\MICRO-SERVICE\RESILIENCE-4J\Resilience_OrderService" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ResilienceUserServiceApplication">
+    <configuration name="ResilienceApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.resilience.ResilienceApiGatewayApplication" />
+      <module name="Resilience_ApiGateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.resilience.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResilienceOrderServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Resilience_OrderService.ResilienceOrderServiceApplication" />
+      <module name="Resilience_OrderService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.Resilience_OrderService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResilienceServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.resilience.ResilienceServerApplication" />
+      <module name="Resilience_Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.resilience.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResilienceUserServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.Resilience_UserService.ResilienceUserServiceApplication" />
+      <module name="Resilience_UserService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.Resilience_UserService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ResilienceUserServiceApplication" />
+        <item itemvalue="Application.ResilienceOrderServiceApplication" />
+        <item itemvalue="Application.ResilienceApiGatewayApplication" />
+        <item itemvalue="Application.ResilienceServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaa5116c-9973-448a-b21c-a843e2b1de3c" name="Changes" comment="" />
+      <created>1745210780409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745210780409</updated>
+    </task>
+    <servers />
+  </component>
+</project>
